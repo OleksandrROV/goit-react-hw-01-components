@@ -1,12 +1,15 @@
 .transactions {
-  width: 800px;
+  width: 700px;
   margin: 100px auto;
   text-align: center;
-  box-shadow: 10px 15px 5px rgba(69, 63, 63, 0.36);
+  border-radius: 8px;
+
+  background-color: rgba(250, 247, 253, 0.566);
+  box-shadow: 3px 3px 3px rgba(72, 21, 203, 0.36);
 }
 
 .head th {
-  background-color: rgb(175, 175, 238);
+  background-color: rgb(67, 238, 235);
   padding: 10px;
   font-size: 22px;
   font-weight: 600;

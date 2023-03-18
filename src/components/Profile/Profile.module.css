@@ -6,10 +6,10 @@
   width: 400px;
   height: 600px;
 
-  border-radius: 14px;
+  border-radius: 8px;
   align-items: center;
-  background-color: rgba(123, 106, 140, 0.566);
-  box-shadow: 10px 15px 5px rgba(69, 63, 63, 0.36);
+  background-color: rgba(206, 184, 228, 0.566);
+  box-shadow: 3px 3px 3px rgba(72, 21, 203, 0.36);
   margin: 50px auto;
 }
 

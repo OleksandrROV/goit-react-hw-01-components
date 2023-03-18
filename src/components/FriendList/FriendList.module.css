@@ -1,5 +1,5 @@
 .friends {
-  width: 500px;
+  width: 686px;
   margin: 100px auto;
 }
 
@@ -16,10 +16,12 @@
 .item {
   list-style: none;
   width: 100%;
-  background-color: rgba(145, 228, 180, 0.566);
-  box-shadow: 10px 15px 5px rgba(69, 63, 63, 0.36);
+  border-radius: 8px;
+  align-items: center;
+  background-color: rgba(186, 184, 188, 0.566);
+  box-shadow: 3px 3px 3px rgba(72, 21, 203, 0.36);
   display: flex;
-  gap: 40px;
+  gap: 100px;
   align-items: center;
   padding: 20px;
 }
@@ -34,7 +36,7 @@
 }
 
 .status {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
 }
